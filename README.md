@@ -1,1 +1,2 @@
 # Habilidades-esenciales-para-el-mundo-digital
+l éxito en 2025 dependerá del dominio de herramientas digitales clave. Saber desarrollar sitios web, optimizar estrategias de marketing y analizar datos permite impulsar proyectos con eficiencia. HTML, CSS, JavaScript y frameworks modernos son esenciales, al igual que técnicas avanzadas de SEO y análisis de métricas. La tecnología evoluciona rápido, y quienes se adapten liderarán el futuro.
